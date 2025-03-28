@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "İrem Snapshot",
+  "version": "1.0",
+  "description": "Her tıkladığında İrem'in yüzü gülümsesin 💖",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "irem-boss.jpg",
+      "48": "irem-boss.jpg",
+      "128": "irem-boss.jpg"
+    }
+  },
+  "permissions": []
+}
