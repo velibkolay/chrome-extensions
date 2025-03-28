@@ -1,2 +1,2 @@
 # chrome-extensions
- playground for learning and building extensions for chromum based browsers
+ playground for learning and building extensions for chromium based browsers
